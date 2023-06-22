@@ -1,0 +1,33 @@
+body {
+    background-image: url(landing_page.png);
+    background-size: cover;
+}
+
+.div {
+    display: flex;
+    color: #E574BC;
+    top: 10px;
+    overflow-x: hidden;
+}
+
+.pre1 {
+    color: #ab2b7c;
+    font-size: xx-large;
+    font-style: italic;
+    padding-left: 30px;
+    padding-top: 190px;
+
+}
+
+button {
+    width: 250px;
+    height: 60px;
+    margin-left: 140px;
+    background-color: #EF94D5;
+    color: white;
+    font-style: italic;
+    border-radius: 30px;
+    border: 1px solid #EF94D5;
+    font-size: larger;
+    margin-top: 20px;
+}
